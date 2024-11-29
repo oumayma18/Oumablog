@@ -11,7 +11,7 @@ A bunch of commands I use to break stuff 💥👾
 
 ### Scan ports faster:
 
- <pre style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 8px; font-size: 1rem; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word; overflow-x: auto;">
+ <pre style="background-color: #282c34; color: #abb2bf; font-family: 'Fira Code', monospace; padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); overflow-x: auto; white-space: pre-wrap; word-wrap: break-word; margin-bottom: 20px; font-size: 1rem; transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
 rustscan -a 10.10.190.187 -- -A
   </pre>
 
