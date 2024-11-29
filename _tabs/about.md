@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About Me
+## A Little About Me
 
 Hello, and welcome to my blog! I'm **Oumayma Belhaou**, an engineer in Information and Communication Network Technologies with a passion for cybersecurity and continuous learning. 
 
@@ -20,3 +20,9 @@ I created this blog to share my learning process, document my projects, and conn
 Feel free to explore, and don’t hesitate to reach out if you’d like to collaborate or share ideas.
 
 ---
+<h1 align="center">My Certifications and Achievements</h1>
+<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
+  <img src="/assets/imgs/THM-Web Fundamentals.png" alt="Web Fundamentals_THM" width="300" height="150" style="margin: 10px;" />
+  <img src="/assets/imgs/JPT_THM.png" alt="Junior Penetration Testing_THM" width="300" height="150" style="margin: 10px;" />
+  <img src="/assets/imgs/THM-8BYKWZPNP2.pdf" alt="Pre-Security_THM" width="300" height="150" style="margin: 10px;" />
+</div>
