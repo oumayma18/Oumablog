@@ -11,7 +11,8 @@ A bunch of commands I use to break stuff 💥👾
 
 ### Scan ports faster:
 
-```bash
+<pre>
 rustscan -a 10.10.190.187 -- -A
+  </pre>
 
 
