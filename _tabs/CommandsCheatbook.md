@@ -71,4 +71,16 @@ hydra -l user -P passlist.txt ftp://192.168.0.1
 hydra -L userlist.txt -p defaultpw imap://192.168.0.1/PLAIN
 </pre>
 
+## Password Cracking
 
+### Convert SSH private key to John the Ripper format (using ssh2john):
+
+<pre style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 8px; font-size: 1rem; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word; overflow-x: auto;">
+ssh2john id_rsa > id_rsa.hash
+</pre>
+
+### Crack the SSH private key with John the Ripper:
+
+<pre style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 8px; font-size: 1rem; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word; overflow-x: auto;">
+john --wordlist=/usr/share/wordlists/rockyou.txt id_rsa.hash
+</pre>
