@@ -45,6 +45,12 @@ sudo netdiscover
 nikto -h http://ip_add
 </pre>
 
+### Directory brute force with gobuster:
+
+<pre style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 8px; font-size: 1rem; font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word; overflow-x: auto;">
+gobuster dir -u http://example.com -w /usr/share/wordlists/dirb/common.txt
+</pre>
+
 ## Brute Force Attacks
 
 ### Brute force SSH login:
