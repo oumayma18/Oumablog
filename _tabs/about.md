@@ -27,3 +27,8 @@ Feel free to explore, and don’t hesitate to reach out if you’d like to colla
   <img src="/assets/imgs/THM-8BYKWZPNP2.jpg" alt="Pre-Security_THM" width="300" height="150" style="margin: 10px;" />
   <img src="/assets/imgs/THM-FXTFFY6ZZS.png" alt="Introduction to Cyber Security_THM" width="300" height="150" style="margin: 10px;" />
 </div>
+<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="/assets/imgs/PWA_TCM.jpg" alt="Pratical Web Application Security and Testing" width="300" height="150" style="margin: 10px;" />
+  <img src="/assets/imgs/certif_TCM.png" alt="Mobile Application Penetration Testing" width="300" height="150" style="margin: 10px;" />
+  
+</div>
