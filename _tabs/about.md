@@ -6,13 +6,13 @@ order: 4
 
 ### 🎀​A Little About Me🎀​
 
-Hello, and welcome to my blog! I'm **Oumayma Belhaou**, an engineer in Information and Communication Network Technologies with a passion for cybersecurity and continuous learning. 
+Hello, and welcome to my blog! I'm **Oumayma Belhaou**, an engineer in Information and Communication Network Technologies with a passion for cybersecurity and continuous learning 💻✨. 
 
 ### What You’ll Find Here
-- Insights on hacking techniques and ethical hacking.
-- Personal experiences with Capture the Flag (CTF) challenges.
-- Tutorials, tips, and tricks for web application security and penetration testing.
-- A journey of growth, challenges, and discoveries in the cybersecurity domain.
+- 🕵️‍♀️Insights on hacking techniques and ethical hacking.
+- 🏆Personal experiences with Capture the Flag (CTF) challenges.
+- 🛡️Tutorials, tips, and tricks for web application security and penetration testing.
+- 🚀A journey of growth, challenges, and discoveries in the cybersecurity domain.
 
 ### Why This Blog?
 I created this blog to share my learning process, document my projects, and connect with like-minded individuals. Let’s learn and grow together!
@@ -20,7 +20,7 @@ I created this blog to share my learning process, document my projects, and conn
 Feel free to explore, and don’t hesitate to reach out if you’d like to collaborate or share ideas.
 
 ---
-<h1 align="center">My Certifications and Achievements</h1>
+<h1 align="center">🏅My Certifications and Achievements🏅</h1>
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
   <img src="/assets/imgs/THM-Web Fundamentals.png" alt="Web Fundamentals_THM" width="300" height="150" style="margin: 10px;" />
   <img src="/assets/imgs/JPT_THM.png" alt="Junior Penetration Testing_THM" width="300" height="150" style="margin: 10px;" />
@@ -33,7 +33,7 @@ Feel free to explore, and don’t hesitate to reach out if you’d like to colla
   
 </div>
 ---
-<h1 align="center">Let's connect!</h1>
+<h1 align="center">🤝Let's connect!🤝</h1>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/bel-haou-oumayma-34b3721ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
