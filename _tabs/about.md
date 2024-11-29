@@ -25,4 +25,5 @@ Feel free to explore, and don’t hesitate to reach out if you’d like to colla
   <img src="/assets/imgs/THM-Web Fundamentals.png" alt="Web Fundamentals_THM" width="300" height="150" style="margin: 10px;" />
   <img src="/assets/imgs/JPT_THM.png" alt="Junior Penetration Testing_THM" width="300" height="150" style="margin: 10px;" />
   <img src="/assets/imgs/THM-8BYKWZPNP2.jpg" alt="Pre-Security_THM" width="300" height="150" style="margin: 10px;" />
+  <img src="/assets/imgs/THM-FXTFFY6ZZS.png" alt="Introduction to Cyber Security_THM" width="300" height="150" style="margin: 10px;" />
 </div>
