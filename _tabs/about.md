@@ -40,6 +40,6 @@ Feel free to explore, and don’t hesitate to reach out if you’d like to colla
 &nbsp; <a href="https://tryhackme.com/r/p/Notshygirl" target="blank"><img align="center" src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/tryhackme.com.svg" alt="tryhackme" height="50" width="50" /></a>
 
 &nbsp; <a href="https://discord.com/users/774207449796182027" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="oumaymabelh" height="50" width="50" /></a>
-&nbsp; <a href="https://github.com/oumayma18" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/github-logo_25231" alt="github" height="50" width="50" /></a>
+&nbsp; <a href="https://github.com/oumayma18" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" height="50" width="50" /></a>
 
 </p>
