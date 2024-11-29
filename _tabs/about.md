@@ -24,5 +24,5 @@ Feel free to explore, and don’t hesitate to reach out if you’d like to colla
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
   <img src="/assets/imgs/THM-Web Fundamentals.png" alt="Web Fundamentals_THM" width="300" height="150" style="margin: 10px;" />
   <img src="/assets/imgs/JPT_THM.png" alt="Junior Penetration Testing_THM" width="300" height="150" style="margin: 10px;" />
-  <img src="/assets/imgs/THM-8BYKWZPNP2.pdf" alt="Pre-Security_THM" width="300" height="150" style="margin: 10px;" />
+  <img src="/assets/imgs/THM-8BYKWZPNP2.jpg" alt="Pre-Security_THM" width="300" height="150" style="margin: 10px;" />
 </div>
