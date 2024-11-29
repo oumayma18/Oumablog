@@ -32,3 +32,15 @@ Feel free to explore, and don’t hesitate to reach out if you’d like to colla
   <img src="/assets/imgs/certif_TCM.png" alt="Mobile Application Penetration Testing" width="300" height="150" style="margin: 10px;" />
   
 </div>
+---
+<h1 align="center">Let's connect!</h1>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bel-haou-oumayma-34b3721ba/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm50ej1OLQf%2BKB2K68fwTzA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
+&nbsp; <a href="https://tryhackme.com/r/p/Notshygirl" target="blank"><img align="center" src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/tryhackme.com.svg" alt="tryhackme" height="50" width="50" /></a>
+
+&nbsp; <a href="https://discord.com/users/774207449796182027" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="oumaymabelh" height="50" width="50" /></a>
+&nbsp; <a href="https://github.com/oumayma18" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/github_733553" alt="github" height="50" width="50" /></a>
+
+
+</p>
