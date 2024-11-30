@@ -133,17 +133,11 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true # boolean, keep empty means false
+    enabled:  # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
     css_inline: |
-    :root {
-      --color-dark: #1e1e1e; #/* Background color */
-      --color-light: #f5f5f5; #/* Text color */
-      --color-accent: #ffb6c1; #/* Baby pink accent */
-      --color-muted: #bdbdbd; #/* Muted text color */
-    }
 
 pwa:
   enabled: true # The option for PWA feature (installable)
