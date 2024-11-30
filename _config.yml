@@ -17,7 +17,7 @@ timezone: Africa/Casablanca
 
 title: OumaBlog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A Journey in Cybersecurity # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -89,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -133,10 +133,17 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
+    enabled: true # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
+    css_inline: |
+    :root {
+      --color-dark: #1e1e1e; #/* Background color */
+      --color-light: #f5f5f5; #/* Text color */
+      --color-accent: #ffb6c1; #/* Baby pink accent */
+      --color-muted: #bdbdbd; #/* Muted text color */
+    }
 
 pwa:
   enabled: true # The option for PWA feature (installable)
