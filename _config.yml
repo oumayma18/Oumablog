@@ -3,6 +3,7 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -35,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Oumayma BELHAOU
-  email: example@domain.com # change to your email address
+  email: omaymabelhaou@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - #https://twitter.com/username # change to your Twitter homepage
@@ -89,7 +90,13 @@ pageviews:
 #     dark — Use the dark color scheme
 #
 theme_mode: # [light | dark]
-
+ palette: 
+    primary: "#ff69b4"       # Hot pink
+    secondary: "#f9a1bc"     # Peachy pink
+    accent: "#ffc0cb"        # Light pink
+    highlight: "#ffb6c1"     # Baby pink
+    background: "#fff0f5"    # Lavender blush
+    text: "#4b0082"          # Indigo for contrast
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
