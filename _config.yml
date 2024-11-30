@@ -90,13 +90,7 @@ pageviews:
 #     dark — Use the dark color scheme
 #
 theme_mode: # [light | dark]
- palette: 
-    primary: "#ff69b4"       # Hot pink
-    secondary: "#f9a1bc"     # Peachy pink
-    accent: "#ffc0cb"        # Light pink
-    highlight: "#ffb6c1"     # Baby pink
-    background: "#fff0f5"    # Lavender blush
-    text: "#4b0082"          # Indigo for contrast
+
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
